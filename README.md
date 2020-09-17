@@ -1,3 +1,4 @@
+# Koch Implementation for Additive Manufacturing
 The program files have been fully contained and have been 
 implemented for the validation in test case scenario. The document
 shall mention the methods by which a user can access the benefits
@@ -6,7 +7,7 @@ of his/her own desire.
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
-STEPS TO FOLLOW
+# STEPS TO FOLLOW
 --------------------------------------------------------------------
 ------------------------------------------------------------------
 
@@ -43,7 +44,7 @@ file would be accessible by any '*.xls' reading file.
 
 --------------------------------------------------------------------
 --------------------------------------------------------------------
-External Software:
+# External Software:
 --------------------------------------------------------------------
 --------------------------------------------------------------------
 
