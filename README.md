@@ -5,11 +5,7 @@ shall mention the methods by which a user can access the benefits
 of the program and hence can make the G-Code for the arbitrary shape
 of his/her own desire.
 
---------------------------------------------------------------------
---------------------------------------------------------------------
-# STEPS TO FOLLOW
---------------------------------------------------------------------
-------------------------------------------------------------------
+# Steps to Follow:
 
 1. All the files should be present in the same folder and the targeted
 folder must be chosen as such, that MATLAB can access the folder for
@@ -38,15 +34,7 @@ the G-Code to run)
 to export the datapoints in the form of a excel file and hence the generated
 file would be accessible by any '*.xls' reading file.
 
---------------------------------------------------------------------
---------------------------------------------------------------------
-
-
---------------------------------------------------------------------
---------------------------------------------------------------------
 # External Software:
---------------------------------------------------------------------
---------------------------------------------------------------------
 
 The Program doesn't use any form of external software for the purpose
 of implementation. However, for the sake of iteration and rechecking the 
@@ -56,6 +44,3 @@ https://cncsimulator.info/download
 
 (Download the software from the above link and have the generated g-code
 tested and hence make certain changes as desired)
-
---------------------------------------------------------------------
---------------------------------------------------------------------
